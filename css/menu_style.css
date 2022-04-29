@@ -1,0 +1,40 @@
+.container{
+    max-width: 100%;
+    background-color: white;
+    padding: 15px;
+    margin: 30px;
+    color: #54362a;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    overflow-x: hidden;
+    /* background-color: #1E5050; */
+    background-color: #d6c69c;
+}
+
+.link-to-site{
+    color: #54362a;
+    text-align: center;
+    text-decoration: none;
+}
+.link-to-site a{
+    color: #54362a;
+    text-align: center;
+    text-decoration: none;
+}
+
+.text-link{
+    margin-top: 0%;
+}
+
+.menu{
+    color: #54362a;
+    text-align: center;
+}
+.menu span{
+    font-size: 30px;
+    font-weight: bold;
+}
